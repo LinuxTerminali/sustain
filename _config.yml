@@ -13,18 +13,18 @@ safe: true
 # edit here to achieve your personal greatness
 url: http://linuxterminal.github.io/
 baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+title: Linux Terminal
+author: Linux Terminal
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: biomadeira/sustain # username
+email: nkmishra1995@gmail.com
+github: linuxterminali/sustain # username
 twitter: username
 linkedin: username
 stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus 
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+#google_analytics: UA-69391421-1
 
 
 # needed for travis-ci build
